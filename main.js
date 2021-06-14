@@ -1,1 +1,2 @@
-console.log('Welcome to JavaScript Course');
+const exampleFunction = name => console.log(`Hello, ${name}`);
+exampleFunction('Jesus García');
